@@ -36,5 +36,5 @@ Three univariate linear regression models:
 
 ## 🌐 GitHub Pages
 If enabled, the notebook is also published via GitHub Pages for easy access:  
-[GitHub Pages Report](https://github.com/preetpalai/ProblemLab1_CSCN8010.git)
+[GitHub Pages Report](https://preetpalai.github.io/ProblemLab1_CSCN8010/)
 
