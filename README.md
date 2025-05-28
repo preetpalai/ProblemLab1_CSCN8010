@@ -16,7 +16,7 @@ The analysis follows the standard machine learning workflow: framing the problem
 - `README.md` – This file.
 
 
-## Tools Used
+## Tools User
 - Python
 - Jupyter Notebook
 - Pandas, NumPy
