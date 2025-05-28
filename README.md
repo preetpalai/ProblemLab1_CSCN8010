@@ -3,7 +3,7 @@
 **Student Name:** Preetpal Singh  
 **Student ID:** 8804336  
 
-## 📘 Description
+## Description
 This project demonstrates a univariate linear regression analysis on the California Housing Prices dataset. The goal is to understand the linear relationship between median house value and three independent variables:
 - Median income
 - Population
@@ -11,30 +11,30 @@ This project demonstrates a univariate linear regression analysis on the Califor
 
 The analysis follows the standard machine learning workflow: framing the problem, exploring the data, fitting models, evaluating them, and drawing conclusions.
 
-## 📊 Project Structure
+## Project Structure
 - `Untitled-1.ipynb` – Jupyter Notebook containing all the code, visualizations, and analysis.
 - `README.md` – This file.
 
 
-## 🛠️ Tools Used
+## Tools Used
 - Python
 - Jupyter Notebook
 - Pandas, NumPy
 - Seaborn, Matplotlib
 - Scikit-learn
 
-## 📈 Models Trained
+## Models Trained
 Three univariate linear regression models:
 1. Median House Value vs. Median Income
 2. Median House Value vs. Population
 3. Median House Value vs. Number of Households
 
 
-## ✅ Results Summary
+## Results Summary
 - The model with **Median Income** as the independent variable provided the best fit.
 - Visualizations and error metrics are included in the notebook for comparison.
 
-## 🌐 GitHub Pages
+## GitHub Pages
 If enabled, the notebook is also published via GitHub Pages for easy access:  
 [GitHub Pages Report](https://preetpalai.github.io/ProblemLab1_CSCN8010/)
 
